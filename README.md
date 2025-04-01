@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Mealman1551/Hash-Calk)
 ![GitHub issues](https://img.shields.io/github/issues/Mealman1551/Hash-Calk)
 ![GitHub stars](https://img.shields.io/github/stars/Mealman1551/Hash-Calk?style=social)
-![GitHub license](https://img.shields.io/github/license/Mealman1551/Hash-Calk)
+<!-- ![GitHub license](https://img.shields.io/github/license/Mealman1551/Hash-Calk) -->
 
 ## Description
 This software let you check hashes from every file, these algorithms are supported:
