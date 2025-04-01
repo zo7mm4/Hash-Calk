@@ -5,8 +5,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/Mealman1551/Hash-Calk?style=social)
 ![GitHub license](https://img.shields.io/github/license/Mealman1551/Hash-Calk)
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/Mealman1551/Hash-Calk/releases/latest)
-
 ## Description
 This software let you check hashes from every file, these algorithms are supported:
 - md5
@@ -40,6 +38,9 @@ hash
 
 ## License
 This project is licensed under my own All Rights Reserved license, this means it's proprietary.
+
+## Download
+[![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/Mealman1551/Hash-Calk/releases/latest)
 
 ###### &copy; Mealman1551
 
