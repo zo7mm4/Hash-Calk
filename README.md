@@ -42,7 +42,7 @@ This project is licensed under my own All Rights Reserved license, this means it
 ## Download
 [![Download for Windows](https://img.shields.io/badge/Download%20for-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/Mealman1551/Hash-Calk/releases/latest)
 
-sha256: `93ce09268e36ba231b529249db9c438c0cd3ec5c30f4cdb8aa2317a0544b47ec`
+sha256: `3882ebe9afabdb51bce1985f0af4ca6ead0b495d95f927bddf84cf1b338c8801`
 
 ---
 ###### &copy; Mealman1551
