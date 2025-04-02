@@ -22,6 +22,8 @@ This software let you check hashes from every file, these algorithms are support
 - shake_128
 - shake_256
 
+Please note that this is for Windows only, as Linux and MacOS have also the `hash` command but that does something else then this tool. 
+
 ## Features
 - Fast hashing
 - Commandline interfeace (CLI)
